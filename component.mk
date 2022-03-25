@@ -1,0 +1,2 @@
+COMPONENT_ADD_INCLUDEDIRS := isc_cron
+COMPONENT_SRCDIRS := isc_cron
